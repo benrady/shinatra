@@ -3,7 +3,7 @@ Shinatra - A web server in five lines of bash
 
 ## Usage:
 
-./shinatra.sh <port> <response>
+./shinatra.sh [port] [response]
 
 ## Frequently Asked Questions
 
