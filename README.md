@@ -15,6 +15,10 @@ Yes, this is a real web server. It works on most linux distros and OS X.
 
 You don't install it. Copy the file to wherever you want and run it.
 
+#### Does this server use threads, or an event loop?
+
+No.
+
 #### How do I define the routes?
 
 Use whatever routes you like. It's not picky.
