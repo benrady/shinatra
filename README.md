@@ -33,9 +33,4 @@ Not yet. We might add more lines to the script later.
 
 #### Does it work on Windows?
 
-Of course not.
-
-#### What about cygwin? Do you support...
-
-Stop it. Just stop.
-
+Yes, this works on Windows 10 with the [Windows Subsystem for Linux](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide) (WSL) installed.
