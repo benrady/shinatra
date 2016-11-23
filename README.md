@@ -1,9 +1,9 @@
 
-Shinatra - A web server in five lines of bash
+Shinatra - A web server that wraps 1 shell command into a bash script.
 
 ## Usage:
 
-./shinatra.sh [port] [response]
+./shinatra.sh [port]
 
 ## Frequently Asked Questions
 
