@@ -1,5 +1,5 @@
 
-Shinatra - A web server in five lines of bash
+Shinatra - A web server in four lines of bash
 
 ## Usage:
 
