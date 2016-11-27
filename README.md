@@ -35,7 +35,7 @@ Not yet. We might add more lines to the script later.
 
 Of course not.
 
-#### What about cygwin? Do you support...
+#### What about Cygwin?
 
-Stop it. Just stop.
+Yes, it works under Cygwin.
 
